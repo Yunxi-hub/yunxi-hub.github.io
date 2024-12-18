@@ -1,12 +1,9 @@
 {
     "title":"云溪御风的博客",
-    "subTitle":"落叶别树，随风飘落；数码爱好者，凭爱好摸索，非专业出身，错漏敬请指正，大佬轻喷",
+    "subTitle":"数码爱好者，凭爱好摸索，非专业出身，错漏敬请指正，大佬轻喷",
     "avatarUrl":"https://avatars.githubusercontent.com/u/120231525?v=4",
     "GMEEK_VERSION":"last",
-    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
-    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
-    "displayTitle":"",
+    "displayTitle":"云溪御风的博客",
     "homeUrl":"https://blog.yunxi.us.kg",
     "faviconUrl":"",
     "email":"shuyangqiu@163.com",
@@ -35,5 +32,8 @@
     "bottomText":"转载请注明出处",
     "ogImage":"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg",
     "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
-    "needComment":1
+    "needComment":1,
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
